@@ -1,0 +1,22 @@
+[{
+ "id": 1,
+ "name": "Samsung Galaxy z flip den",
+ "description": "Apple, 32GB, RAM: 3GB, iOS13",
+ "price": 17000000,
+ "images": "https://cdn.tgdd.vn/Products/Images/42/213022/samsung-galaxy-z-flip-den-600x600-400x400.jpg",
+ "category_id": 1
+}, {
+ "id": 2,
+ "name": "iPad 10.2 inch Wifi 128GB (2019)",
+ "description": "Apple, 128GB, RAM: 6GB",
+ "price": 37000000,
+ "images": "https://cdn.tgdd.vn/Products/Images/522/213104/ipad-10-2-inch-wifi-128gb-2019-silver-400x400.jpg",
+ "category_id": 2
+}, {
+ "id": 3,
+ "name": "samsung-galaxy-note-20-plus-5g",
+ "description": "Samsung, 64GB, RAML: 6GB",
+ "price": 24000000,
+ "images": "https://cdn.tgdd.vn/Products/Images/42/225063/samsung-galaxy-note-20-plus-5g-245120-045140-400x400.jpg",
+ "category_id": 1
+}]
